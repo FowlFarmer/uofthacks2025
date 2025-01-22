@@ -1,3 +1,5 @@
+**This is a deprecated repo. Please check out https://github.com/pirate2580/BugShot **
+
 **How To Use:**
 1. git clone <repo-ssh>
 2. pip install -r requirements.txt
